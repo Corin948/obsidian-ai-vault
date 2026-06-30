@@ -1,0 +1,16 @@
+.DS_Store
+.obsidian/workspace.json
+.obsidian/cache
+.trash/
+*.tmp
+*.temp
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.mov
+*.avi
+*.zip
+*.tar.gz
+node_modules/
+.env
